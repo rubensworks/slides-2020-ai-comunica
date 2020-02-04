@@ -1,6 +1,6 @@
-# Slides for guest talk at WU on Comunica
+# Slides for talk at a D²AI meeting on Comunica
 
-[![Build Status](https://travis-ci.org/rubensworks/slides-2019-wu-comunica.svg?branch=master)](https://travis-ci.org/rubensworks/slides-2019-wu-comunica)
+[![Build Status](https://travis-ci.org/rubensworks/slides-2020-ai-comunica.svg?branch=master)](https://travis-ci.org/rubensworks/slides-2020-ai-comunica)
 
 These slides are created using the [shower](https://github.com/shower/shower) framework.
 
